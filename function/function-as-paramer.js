@@ -28,3 +28,7 @@ function divide(p1, p2){
  compute(add, 3, 5) should return 8
  compute(multiply, 3, 5) should return 15
  */
+
+ getComputedStyle(operator, p1, p2){
+  
+ }

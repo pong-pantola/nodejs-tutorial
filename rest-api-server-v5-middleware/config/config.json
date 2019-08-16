@@ -1,0 +1,6 @@
+{
+    "token": {
+        "secretKey": "abc123",
+        "expiration": 40
+    }
+}

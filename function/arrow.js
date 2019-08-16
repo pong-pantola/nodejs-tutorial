@@ -14,11 +14,7 @@ let hello3 = (name) =>{
 }
 
 //will work only if single statement
-let hello3 = (name) => "Hello " + name
+let hello4 = (name) => "Hello " + name
 
 //will work only if single parameter
-let hello3 = name => "Hello " + name
-
-
-
-
+let hello5 = name => "Hello " + name
