@@ -45,5 +45,5 @@ car1.setColor("blue")
 console.log("Your car is a " + car1.getDescription())
 
 let mc1 = new Motorcycle("Yamaha", "Mio");
-car1.setColor("black")
-console.log("Your motorcycle is a " + car1.getDescription())
+mc1.setColor("black")
+console.log("Your motorcycle is a " + mc1.getDescription())

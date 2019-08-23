@@ -1,4 +1,4 @@
-function myFunc(p1, p2, p3, p4="hello"){
+function myFunc(p1, p2, p3, p4="hi"){
   if (p1 != null)
     console.log("p1: " + p1)
   else

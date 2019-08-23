@@ -12,6 +12,6 @@ obj["phone"] = [
   ]
 
 obj.myFunc = function(){
-    console.log("Hi everone!")
+    console.log("Hi everyone!")
   }
 
